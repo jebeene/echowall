@@ -27,3 +27,5 @@ You can adjust the following constants to tweak how the mural appears:
 1.	Max Stored Faces: This limits how many unique faces are stored in the system. When the number exceeds this value, older faces are deleted.
 2.	Tile Color Weight: This controls how much of the tile’s color comes from the video feed versus the face image.
 3.	Face Size: Controls the size of each face tile in the mural.
+-------
+This project is inspired by the [Uncanny Mirror](https://vimeo.com/336559940).
