@@ -7,7 +7,7 @@ import time
 import uuid
 
 MAX_STORED_FACES = 500  # Maximum number of faces to store
-VIDEO_FEED_COLOR_WEIGHT = 0.4 # How much to preserve tile image colors
+VIDEO_FEED_COLOR_WEIGHT = 0.7 # How much to preserve tile image colors
 FACE_SIZE = 5 # How large (pixels) should each face tile be
 
 # Directory to store unique faces
